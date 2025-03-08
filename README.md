@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:05/03/2025
-## Register Number:212222040185
-## Name:YOGESH V S
+# Date:08/03/2025
+## Register Number:212223040236
+## Name:K Vijay
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
